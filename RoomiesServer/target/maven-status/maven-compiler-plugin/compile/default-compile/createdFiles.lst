@@ -1,0 +1,5 @@
+com/roomies/montlyExpense/MonthlyExpense.class
+com/roomies/montlyExpense/MontlyExpenseService.class
+com/roomies/montlyExpense/MonthlyExpenseImpl.class
+com/roomies/databaseHelper/DatabaseHelper.class
+com/roomies/test/RoomiesTest.class
